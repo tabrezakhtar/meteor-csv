@@ -1,0 +1,4 @@
+```
+meteor npm install
+meteor
+```
